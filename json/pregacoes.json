@@ -1,18 +1,17 @@
 {
   "pregacoes": [
     {
-      "description": "A fé em Deus nos dá a certeza de que mesmo na escuridão, haverá luz no fim do caminho."
-    },
-    {
       "id": 1,
       "title": "Deus não nos dá mais do que podemos suportar, Ele nos fortalece para superar.",
       "imageUrl": "https://mcdn.wallpapersafari.com/medium/13/81/63kgvJ.jpg",
+      "description": "A fé em Deus nos dá a certeza de que mesmo na escuridão, haverá luz no fim do caminho.",
       "audioUrl": "https://filebin.net/x72ouf3wl1yabfps/PALAVRAS_PARA_UM_CORACAO_CANSADO_-_DIEGOMENIN_SERMAO___YouConvert.net__.mp3"
     },
     {
       "id": 2,
       "title": "O TEMPO É CURTO; FAÇA O MELHOR USO DO SEU TEMPO - BILLY GRAHAM",
       "imageUrl": "https://wallpaperaccess.com/download/4k-jesus-1112056",
+      "description": "",
       "audioUrl": "https://filebin.net/7evspw0hww3rkzm7/O_TEMPO_E_CURTO_FACA_O_MELHOR_USO_DO_SEU_TEMPO_-_BILLY_GRAHAM_EM_PORTUGUES_EXCLUSIVO___YouConvert.net__.mp3"
     }
   ]
