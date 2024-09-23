@@ -1,9 +1,16 @@
 {
   "pregacoes": [
+      {
+      "id": 4,
+      "title": "CLAUDIO DUARTE | PENSE COMO JOSE",
+      "description": "Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. (Mateus 5:6)",
+      "imageUrl": "https://www.wallpaperscristaos.com.br/wp-content/uploads/2022/09/wallpaper-cristao-hd-Louvem-o-Senhor_1366x768.jpg",
+      "audioUrl": "https://filebin.net/7evspw0hww3rkzm7/CLAUDIO_DUARTE_PENSE_COMO_JOSE___YouConvert.net__.mp3"
+    },
     {
       "id": 3,
       "title": "CLAUDIO DUARTE | PENSE COMO JOSE",
-      "description": "Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. (Mateus 5:6)",
+      "description": "",
       "imageUrl": "https://www.wallpaperscristaos.com.br/wp-content/uploads/2022/09/wallpaper-cristao-hd-Louvem-o-Senhor_1366x768.jpg",
       "audioUrl": "https://filebin.net/7evspw0hww3rkzm7/CLAUDIO_DUARTE_PENSE_COMO_JOSE___YouConvert.net__.mp3"
     },
